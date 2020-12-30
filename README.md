@@ -1,6 +1,6 @@
 ## FRESCO : STUDENT NEEDS MANAGEMENT WEBAPP 
 
-## Project Overview
+## PROJECT OVERVIEW
 
 This project would act as a non-profit organization whose main purpose would be to lend a hand to the needful.
 This project aims to plan and implement a donation system in which the students would donate items which are
@@ -19,6 +19,6 @@ administrator of the system to manage those options. It will provide functionali
 and the item information. Also, users could just tap in and get information about all the outlets, etransport within the institute. 
 An additional map of the institute will be provided for the newbies.
 
-### VIEW MY PROJECT AT THE LINK BELOW 
+#### VIEW MY PROJECT AT THE LINK BELOW 
 
 Visit WebApp at https://bit.ly/fresco-thapar
