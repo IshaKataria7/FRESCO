@@ -19,6 +19,6 @@ administrator of the system to manage those options. It will provide functionali
 and the item information. Also, users could just tap in and get information about all the outlets, etransport within the institute. 
 An additional map of the institute will be provided for the newbies.
 
-#### VIEW MY PROJECT AT THE LINK BELOW 
+#### View My Project At The link Below 
 
 Visit WebApp at https://bit.ly/fresco-thapar
